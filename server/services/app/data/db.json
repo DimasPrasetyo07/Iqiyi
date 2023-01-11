@@ -1,0 +1,113 @@
+{
+    "movies": [
+        {
+            "title": "Kamen Rider Kuuga",
+            "slug": "Kamen-Rider-Kuuga",
+            "synopsis": "Long ago, the Gurongi Tribe terrorized the Rinto (リント, Rinto) until a warrior named Kuuga appeared and defeated the Gurongi, sealing their leader within a cave. In the present day, a multi-talented man named Yusuke Godai finds himself linked to the mysterious stoned belt that was found within the excavated cave as the Gurongi are resurrected and resume their murderous game on the descendants of the Rinto, humanity itself. It is up to Yusuke, along with the assembled Science Police, to use the various powers of Kuuga to stop and defeat the Gurongi Tribesmen from their continuous killing and ensure the happiness of others. However, as the endgame draws near, Yusuke learns that there is a horrible revelation behind Kuuga and the Gurongis' leader.",
+            "trailerUrl": "https://www.youtube.com/embed/PD6U-B38Uek",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzlmODcyZmItMWIwMS00MGE2LWIwYjAtZjI3YzIzYzM5NzlkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+            "rating": 8,
+            "genreId": 1,
+            "userMongoId": "635a04d2e71c3b012ad331cb"
+        },
+        {
+            "title": "Kamen Rider Kabuto",
+            "slug": "Kamen-Rider-Kabuto",
+            "synopsis": "Seven years ago, a meteorite struck at the heart of Shibuya, and emerged an alien life-form that threatens humanity, the Worms. Since that day, Soji Tendo has trained for all his life to one day take up the Kabuto Zecter and become the hero known as Kamen Rider Kabuto. Making many enemies while also meeting other Riders with mysterious origins, Tendou attempts to accomplish his goal at all costs: to destroy the Worms. He meets ZECT operative Arata Kagami and the two work together to save humanity while uncovering the conspiracies that lie within ZECT.",
+            "trailerUrl": "https://www.youtube.com/embed/x1K06DLwMMY",
+            "imgUrl": "https://wallpaperaccess.com/full/5596684.jpg",
+            "rating": 9,
+            "genreId": 1,
+            "userMongoId": "635a04d2e71c3b012ad331cb" 
+        },
+        {
+            "title": "Kamen Rider Decade",
+            "slug": "Kamen-Rider-Decade",
+            "synopsis": "Natsumi Hikari has repeatedly been having dreams of the Rider War, where every single Rider from the Heisei-era attack one being, a warrior known as 'Decade.' In reality, she lives with Tsukasa Kadoya, a young man who doesn't seem to be able to call Hikari Studio home. One day, monsters from different dimensions begin to attack people, with the world starting to fall in chaos. Tsukasa, who had been separated from Natsumi, meets the mysterious Wataru Kurenai, who informs Tsukasa about his title as Kamen Rider Decade, the Destroyer of Worlds. Discovering that the nine universes of the Kamen Riders from the Heisei-era are merging into one, which would result in the collapse of multiverse, Tsukasa inherits the mission of traveling across these worlds to eliminate the anomaly in each, while embarking on a journey to find one world where he can call home.",
+            "trailerUrl": "https://www.youtube.com/embed/Qh0GW6m5w1c",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmFiMGEyMDktMDFjOC00MGVkLWI2YTctNzU3Y2UwNmE1N2U5XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg",
+            "rating": 9,
+            "genreId": 1,
+            "userMongoId": "635a04d2e71c3b012ad331cb"
+        },
+        {
+            "title": "Kamen Rider Zero One",
+            "slug": "Kamen-Rider-Zero-One",
+            "synopsis": "Humagear, created by the leading company for A.I., Hiden Intelligence, serve humanity's every convenience. But a cyber-terrorist organization begins hacking the Humagears in a conspiracy that turns them into monsters. Aruto Hiden has taken over at Hiden Intelligence, and along with the CEO's post, he also takes over the responsibility for Kamen Rider Zero-One by using his company's technology. Aruto tries to keep the peaceful world between humans and Humagears with his Humagear secretary, while A.I.M.S., a military squad, pursues the terrorists!",
+            "trailerUrl": "https://www.youtube.com/embed/CkLHZBbp9vE",
+            "imgUrl": "https://i.pinimg.com/originals/c8/07/be/c807bec1bf1a8948f4011335f5289016.jpg",
+            "rating": 8,
+            "genreId": 2,
+            "userMongoId": "635a04d2e71c3b012ad331cb"
+        },
+        {
+            "title": "Kamen Rider Revice",
+            "slug": "Kamen-Rider-Revice",
+            "synopsis": "In 1971, a scientific expedition in Latin America had uncovered an ancient artifact containing the remains of the demon Giff, leading to the creation of the Vistamps. In the present day, the remains of Giff now lie in the hands of a demon cult called the Deadmans, who seek to resurrect him by converting peoples' inner demons into their fold. Fenix, a governmental organization opposing the Deadmans, have developed the Revice Driver for someone with complete control over their inner demon. Ikki Igarashi, a young man who runs a public bath with his family, comes into acquisition of the belt while forming a contract with his inner demon Vice. Together, as Kamen Rider Revi and Vice, they are Kamen Rider Revice!",
+            "trailerUrl": "https://www.youtube.com/embed/ZMmvTcdw9kw",
+            "imgUrl": "https://i.pinimg.com/736x/53/c8/09/53c80959d3f64dbd46517c41cf60cfb1.jpg",
+            "rating": 8,
+            "genreId": 2,
+            "userMongoId": "635a04d2e71c3b012ad331cb"
+        }
+    ],
+    "genre": [
+        {
+            "name": "action"
+        },
+        {
+            "name": "drama"
+        },
+        {
+            "name": "comedy"
+        },
+        {
+            "name": "thriller"
+        },
+        {
+            "name": "science-fiction"
+        }
+    ],
+    "casts": [
+        {
+            "movieId": 1,
+            "name": "Shingo Katsurayama",
+            "profilePict": "https://cdn.suruga-ya.jp/database/pics_light/game/g3087665.jpg"
+        },
+        {
+            "movieId": 1,
+            "name": "Kazumi Murata",
+            "profilePict": "https://i.mydramalist.com/poPYy_5f.jpg"
+        },
+        {
+            "movieId": 2,
+            "name": "Hiro Mizushima",
+            "profilePict": "https://i.pinimg.com/474x/4d/41/33/4d4133b45ebf12b5be0b28103dfe4304.jpg"
+        },
+        {
+            "movieId": 3,
+            "name": "Masahiro Inoue",
+            "profilePict": "https://i.pinimg.com/236x/82/70/8d/82708d634d534834678746f170251c1b--kamen-rider-movie-film.jpg"
+        },
+        {
+            "movieId": 4,
+            "name": "Fumiya Takahashi",
+            "profilePict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvPdepx-vFDTSs2zjKbcApHgCipHk_aWhMQ&usqp=CAU"
+        },
+        {
+            "movieId": 5,
+            "name": "Kentaro Maeda",
+            "profilePict": "https://i.pinimg.com/736x/cd/60/c7/cd60c754824374e321b1e93f5a4f818b.jpg"
+        }
+    ],
+    "users" : [
+        {
+            "username": "tes1",
+            "email": "tes1@mail.com",
+            "password": "asd123",
+            "role": "admin",
+            "phoneNumber": "123454321",
+            "address": "jakarta"
+        }
+    ]
+}
